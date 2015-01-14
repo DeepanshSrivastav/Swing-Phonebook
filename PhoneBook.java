@@ -1,5 +1,3 @@
-
-
 import hyun.HTableFrame;
 
 public class PhoneBook {
@@ -9,9 +7,7 @@ public class PhoneBook {
 		HTableFrame frame = new HTableFrame();
 		
 		frame.pack();
-		frame.setVisible(true);
-		
-		
+		frame.setVisible(true);		
 	}
 
 }
